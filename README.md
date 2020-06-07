@@ -16,6 +16,9 @@ IOT system connected to a SCADA system and understand the various
 challenges of building such a model to get a holistic approach on the
 topic, followed by fixing any security vulnerabilities if possible.
 
+#### Video link for code explanation and execution of project
+https://drive.google.com/file/d/1KV3_qv2VXFXyZqKR1NDP5QNC_NYAJUth/view
+
 ### Code Execution :
 Setup Ultrasonic sensor and an LED with mentioned gpio pin numbers from
 the code
